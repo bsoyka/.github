@@ -3,7 +3,7 @@
 This repository contains **community health files** for Ben Soyka's GitHub
 projects.
 
-[![License][license image](https://img.shields.io/github/license/sunset-city/bot)][license]
+[![License](https://img.shields.io/github/license/sunset-city/bot)][license]
 
 ## Files
 
